@@ -81,14 +81,15 @@ Case #3: 4                                      */
 
 
 ## What will be used to solve the problem
-I will using Processing. 
+I will be using Processing. 
 
 ### What is Processing?
 Processing is an open source programming language and integrated development environment (IDE) built for the electronic arts, new media art, and visual design communities with the purpose of teaching the fundamentals of computer programming in a visual context, and to serve as the foundation for electronic sketchbooks. 
 For more information go to: https://en.wikipedia.org/wiki/Processing_%28programming_language%29
 
 ##CHECK THE VIDEO FOR THE SIMULATION OF THIS PROLEM* 
-#SOLUTION TO THE PROBLEM WITH SIMULATION: (SOURCE CODE)
+#SOLUTION TO THE PROBLEM USING SIMULATION: (SOURCE CODE)
+
 import static java.lang.Math.abs;
 import static java.lang.Math.min;
 import static java.lang.Math.max;
