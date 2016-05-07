@@ -91,7 +91,9 @@ For more information go to: https://en.wikipedia.org/wiki/Processing_%28programm
 #SOLUTION TO THE PROBLEM USING SIMULATION: (SOURCE CODE)
 
 import static java.lang.Math.abs;
+
 import static java.lang.Math.min;
+
 import static java.lang.Math.max;
 
  import java.io.FileInputStream;
