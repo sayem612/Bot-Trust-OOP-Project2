@@ -14,7 +14,8 @@ Please make your project available on a web site, such as GitHub or SourceForge,
 
 
 ## BOT TRUST (GCJ QUESTION)
-Solution done by: Kazi Ullah
+#Solution done by: Kazi Ullah
+
 Problem link: https://code.google.com/codejam/contest/975485/dashboard
 Problem A Bot Trust
 Problem
