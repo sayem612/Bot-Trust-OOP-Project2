@@ -88,6 +88,8 @@ I will be using Processing.
 Processing is an open source programming language and integrated development environment (IDE) built for the electronic arts, new media art, and visual design communities with the purpose of teaching the fundamentals of computer programming in a visual context, and to serve as the foundation for electronic sketchbooks. 
 For more information go to: https://en.wikipedia.org/wiki/Processing_%28programming_language%29
 
+#INORDER TO RUN THIS IN YOUR DEVICE
+Change the file path(change directories) in the BotTrust() method  which is using FileInputStream and FileOutputStream for input output.
 ##CHECK THE VIDEO FOR THE SIMULATION OF THIS PROLEM* 
 #SOLUTION TO THE PROBLEM USING SIMULATION: (SOURCE CODE)
 
